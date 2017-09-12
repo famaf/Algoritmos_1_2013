@@ -1,0 +1,3 @@
+GDB: Debugger de C
+
+Entorno grafico de GDB: ddd (sudo apt-get install ddd)

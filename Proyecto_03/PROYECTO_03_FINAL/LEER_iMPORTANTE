@@ -1,0 +1,9 @@
+------------------------------------------------------------------------
+------------------------------ IMPORTANTE ------------------------------
+------------------------------------------------------------------------
+
+PARA PODER USAR EL DICCIONARIO CON "ListAssocOrd":
+    (1) Entrar al modulo dict
+    (2) Modificar, donde dice "import ListAssoc", por "import ListAssocOrd"
+    (3) Listo ya se puede usar el diccionario con "ListAssocOrd" que mantiene
+        como invariante que el diccionario este ordenado.
